@@ -1,0 +1,11 @@
+name: probabilistic_ml
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - jax
+  - jaxlib
+  - tensorflow-probability
+  - numpy
+  - scikit-learn
+  - matplotlib
